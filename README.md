@@ -4,8 +4,9 @@
 
 Next.js App Router · TypeScript strict · Tailwind CSS · GSAP ScrollTrigger / Flip · 無後端
 
+- 網站：https://reikama414.github.io/kaiju-caramel-finale/
 - 作者：[ReiKama414](https://reikama414.vercel.app/)
-- GitHub：https://github.com/ReiKama414
+- GitHub：https://github.com/ReiKama414/kaiju-caramel-finale
 - 授權：[MIT License](./LICENSE)
 
 ## 執行
