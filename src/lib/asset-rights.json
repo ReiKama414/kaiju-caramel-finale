@@ -1,0 +1,25 @@
+{
+  "personalImages": {
+    "files": [
+      "/art/surface.webp",
+      "/art/underwater.webp",
+      "/art/daichi.webp",
+      "/art/moa.webp"
+    ],
+    "source": "使用者提供的兩張擁抱紀念圖與大地、最愛角色劇照",
+    "use": "本機審閱版角色圖鑑與結尾",
+    "publicRedistributionConfirmed": false,
+    "status": "未確認公開重新發布權；不宣稱官方圖或官方授權；"
+  },
+  "officialImages": {
+    "status": "角色與 72 張劇照由官方原站載入，附來源頁，未重新託管"
+  },
+  "fonts": {
+    "names": [
+      "Huninn",
+      "Zen Maru Gothic"
+    ],
+    "license": "SIL Open Font License 1.1",
+    "source": "Fontsource 套件，保留各套件 LICENSE"
+  }
+}
